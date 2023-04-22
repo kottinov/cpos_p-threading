@@ -1,10 +1,10 @@
 This code demonstrates multi-threaded data processing using pthreads in C.
 
 ## Overview
-This project uses pthreads to simulate the reading of sensor data and decoding of TV stream data in separate threads. The sensor and TV data is stored in separate arrays, and the program prints the data to the console once all threads have completed their tasks.
+This code uses pthreads to simulate the reading of sensor data and decoding of TV stream data in separate threads. The sensor and TV data is stored in separate arrays, and the program prints the data to the console once all threads have completed their tasks.
 
-## Project Requirements
-This project requires a C compiler and pthreads library to be installed on the system.
+## Code Requirements
+This code requires a C compiler and pthreads library to be installed on the system.
 
 ## Running the Project
 To run the project, follow these steps:
